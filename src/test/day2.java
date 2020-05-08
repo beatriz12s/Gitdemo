@@ -15,5 +15,11 @@ public class day2 {
 		System.out.println("left");
 		
 	}
+	@Test
+	public void ploands1() {
+		System.out.println("turned");
+	
+		
+	}
 
 }
