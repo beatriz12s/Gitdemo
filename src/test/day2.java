@@ -9,5 +9,11 @@ public class day2 {
 		System.out.println("bad");
 		
 	}
+	@Test
+	public void ploands() {
+		System.out.println("right");
+		System.out.println("left");
+		
+	}
 
 }

@@ -22,5 +22,9 @@ public class day1 {
 	public void secondTest() {
 		System.out.println("Bye mundo");
 	}
+	@Test
+	public void secondTests() {
+		System.out.println("goodnight mundo");
+	}
 
 }
