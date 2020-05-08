@@ -10,6 +10,13 @@ public class day1 {
 		System.out.println("hola mundo");
 		System.out.println("soy beatriz");
 		System.out.println("vamo con todo");
+		//probaremos
+		//continuacion
+		//mas
+		System.out.println("hola ditis");
+		System.out.println("soy yo");
+		System.out.println("tu gato");
+		
 	}
 	@Test
 	public void secondTest() {
